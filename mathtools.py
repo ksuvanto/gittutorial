@@ -43,3 +43,6 @@ def geometric(a, ratio, n):
     sequence = [a*(ratio**x) for x in range(n)]
     #Calculates its sum
     return sum(sequence)
+
+def hello():
+    print 'do not want to say hello'
