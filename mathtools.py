@@ -45,4 +45,5 @@ def geometric(a, ratio, n):
     return sum(sequence)
 
 def hello():
-    print 'do not want to say hello'
+    print ('hello world')
+
